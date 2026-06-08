@@ -1,0 +1,6 @@
+{
+  "name": "West Midlands Handyman",
+  "description": "Professional, reliable handyman and home services in the West Midlands, UK. No job too small - flat pack assembly, fencing, plumbing, painting, plastering, garden work, and more by Phillip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
